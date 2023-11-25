@@ -1,4 +1,4 @@
-# Wa-OpenAI
+# Sonia (Wa-OpenAI)
 
 ***WhatsApp OpenAI ChatGPT Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys) and modified from [Sansekai](https://github.com/Sansekai/Wa-OpenAI)***
 
