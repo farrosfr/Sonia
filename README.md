@@ -1,6 +1,6 @@
 # Sonia (Wa-OpenAI)
 
-***WhatsApp OpenAI ChatGPT Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys) and modified from [Sansekai](https://github.com/Sansekai/Wa-OpenAI)***
+***WhatsApp OpenAI ChatGPT Create with NodeJS Using Library [Baileys](https://github.com/WhiskeySockets/Baileys) and modified from [Sansekai](https://github.com/Sansekai/Wa-OpenAI)***
 
 ## BACA DULU
 Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>Untuk commandnya menggunakan ```sonia``` dan ```img```
